@@ -1,0 +1,10 @@
+{
+    "token": "TOKEN",
+    "guild_id": 1234,
+    "ticket_category_id": 1234,
+    "support_role_id": 1234,
+    "log_channel_id": 1234,
+    "save_transcripts": true,
+    "transcripts_dir": "./transcripts"
+  }
+  

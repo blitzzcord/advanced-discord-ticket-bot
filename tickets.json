@@ -1,0 +1,23 @@
+{
+    "last_ticket_number": 19,
+    "tickets_by_channel": {
+        "123456789012345678": {
+            "ticket_number": 12,
+            "channel_id": "123456789012345678",
+            "opener_id": "987654321098765432",
+            "claimed_by": null,
+            "status": "open",
+            "created_at": "2026-02-08T14:32:10Z"
+        },
+        "1470096830741090499": {
+            "ticket_number": 17,
+            "channel_id": "1470096830741090499",
+            "opener_id": "972996013222670367",
+            "claimed_by": null,
+            "status": "open"
+        }
+    },
+    "open_tickets_by_user": {
+        "987654321098765432": "123456789012345678"
+    }
+}
